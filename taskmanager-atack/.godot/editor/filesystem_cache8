@@ -1,0 +1,36 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1741084689
+icon.svg::CompressedTexture2D::6137601317957383950::1741084665::1741084690::1::::<><>::
+photoshop.tscn::PackedScene::2985539024352230307::1741084665::0::1::::<><>::uid://b4l6hrqxbft6y::::res://photoshop/sprite/After Walk from Maxime.png<>res://photoshop/scripts/photoshop.gd<>res://states/state_machine.gd<>res://states/enemy_idle.gd<>res://states/enemy_follow.gd<>res://states/atack.gd
+playground.tscn::PackedScene::6845059694427118286::1741084665::0::1::::<><>::uid://bn607pw17qiv3::::res://player/player.tscn<>uid://bishnkva25jp8::::res://photoshop.tscn
+::res://addons/::1741084665
+::res://addons/godot-git-plugin/::1741084665
+git_plugin.gdextension::GDExtension::-1::1741084665::0::1::::<><>::
+plugin.cfg::TextFile::-1::1741084665::0::1::::<><>::
+THIRDPARTY.md::TextFile::-1::1741084665::0::1::::<><>::
+::res://addons/godot-git-plugin/linux/::1741084665
+::res://addons/godot-git-plugin/macos/::1741084665
+::res://addons/godot-git-plugin/win64/::1741084665
+::res://photoshop/::1741084665
+::res://photoshop/scripts/::1741084665
+photoshop.gd::GDScript::-1::1741084665::0::1::::photoshop<>CharacterBody2D<>::
+::res://photoshop/sprite/::1741084665
+Adobe After Attaque from Maxime Buchmann.png::CompressedTexture2D::7891714179500735400::1741084665::1741084690::1::::<><>::
+After Walk Damage from Maxime.png::CompressedTexture2D::2034508655299943945::1741084665::1741084690::1::::<><>::
+After Walk from Maxime.png::CompressedTexture2D::4446500950484186138::1741084665::1741084690::1::::<><>::
+::res://player/::1741084665
+player.tscn::PackedScene::3364447254648165318::1741084665::0::1::::<><>::res://player/scripts/player.gd<>uid://bsnjslxcwo0d2::::res://player/sprite/walk.png<>uid://die2pdwbhfm0l::::res://player/sprite/idle.png<>uid://c0rfrt0086h6e::::res://player/sprite/punch.png<>uid://dkxmnt1y4bicr::::res://player/sprite/walk left.png
+::res://player/scripts/::1741084665
+player.gd::GDScript::-1::1741084665::0::1::::Player<>CharacterBody2D<>::
+::res://player/sprite/::1741084665
+idle.png::CompressedTexture2D::7730696648523817925::1741084665::1741084690::1::::<><>::
+Punch Left .png::CompressedTexture2D::2993768548138881678::1741084665::1741084690::1::::<><>::
+punch.png::CompressedTexture2D::6562991861361218854::1741084665::1741084690::1::::<><>::
+walk left.png::CompressedTexture2D::7909384034274783181::1741084665::1741084690::1::::<><>::
+walk.png::CompressedTexture2D::3677235990613850037::1741084665::1741084690::1::::<><>::
+::res://states/::1741084665
+atack.gd::GDScript::-1::1741084665::0::1::::<>state<>::
+enemy_follow.gd::GDScript::-1::1741084665::0::1::::enemy_follow<>state<>::
+enemy_idle.gd::GDScript::-1::1741084665::0::1::::enemy_idle<>state<>::
+State.gd::GDScript::-1::1741084665::0::1::::state<>Node<>::
+state_machine.gd::GDScript::-1::1741084665::0::1::::<>Node<>::
